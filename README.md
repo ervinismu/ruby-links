@@ -1,5 +1,10 @@
 # ruby-links
 
+## Conferences
+Ruby Conferences around the world.
+- [rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
+- [brightonruby - UK](https://brightonruby.com/) - A single-day, single track ruby conference on the south coast of the UK.
+
 ## Learning
 Learn ruby programming, tools and ecosystem.
 - [driftingruby](https://www.driftingruby.com/) - Quality Ruby Screencasts.
@@ -7,10 +12,9 @@ Learn ruby programming, tools and ecosystem.
 - [gorails](https://gorails.com/) - Screencast tutorials to help you learn Ruby on Rails, Javascript, Hotwire, Turbo, Stimulus.js, and more.
 - [rubyweekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
 
-## Conferences
-Ruby Conferences around the world.
-- [rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
-- [brightonruby - UK](https://brightonruby.com/) - A single-day, single track ruby conference on the south coast of the UK.
+## Organizations
+- [rubycentral](https://rubycentral.org/) - Ruby Central is a non-profit organization dedicated to Ruby support and advocacy of the worldwide Ruby community.
+- [rails foundation](https://rubyonrails.org/foundation) - A non-profit organization helping Rails ecosystem prosper.
 
 ## Others
 - [ruby.social](https://ruby.social) - A Mastodon instance for Rubyists & friends
