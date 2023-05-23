@@ -17,6 +17,7 @@ Learn ruby programming, tools and ecosystem.
 - [remoteruby](https://remoteruby.com/) - Remote Ruby is a podcast by three Rubyists who enjoy talking about web development and the Ruby programming language.
 - [rooftopruby](https://www.rooftopruby.com/) - Two Ruby programmers (Collin Donnell and Joel Drapper) discuss Ruby, web and native software development, technology, and more.
 - [rubyweekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
+- [speedshop.co/blog](https://www.speedshop.co/blog/) - the number one Ruby on Rails performance blog on the 'net.
 
 ## Organizations
 - [rubycentral](https://rubycentral.org/) - Ruby Central is a non-profit organization dedicated to Ruby support and advocacy of the worldwide Ruby community.
