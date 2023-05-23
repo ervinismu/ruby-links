@@ -1,5 +1,9 @@
 # ruby-links
 
+> Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+>
+> [source : ruby-lang.org]([Ruby](https://www.ruby-lang.org/en/))
+
 ## Conferences
 Ruby Conferences around the world.
 - [rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
