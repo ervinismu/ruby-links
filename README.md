@@ -14,6 +14,8 @@ Learn ruby programming, tools and ecosystem.
 - [driftingruby](https://www.driftingruby.com/) - Quality Ruby Screencasts.
 - [firstrubyfriend](https://firstrubyfriend.org/) - Six half-hour calls between early career devs and friendly volunteer mentors from the Ruby community.
 - [gorails](https://gorails.com/) - Screencast tutorials to help you learn Ruby on Rails, Javascript, Hotwire, Turbo, Stimulus.js, and more.
+- [remoteruby](https://remoteruby.com/) - Remote Ruby is a podcast by three Rubyists who enjoy talking about web development and the Ruby programming language.
+- [rooftopruby](https://www.rooftopruby.com/) - Two Ruby programmers (Collin Donnell and Joel Drapper) discuss Ruby, web and native software development, technology, and more.
 - [rubyweekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
 
 ## Organizations
