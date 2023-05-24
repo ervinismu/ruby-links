@@ -35,6 +35,7 @@ Learn ruby programming, tools and ecosystem.
 - [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language.
 
 ### Books :books:
+All these books are :free:
 - [Advanced Database Programming with Rails and Postgres](https://pganalyze.com/ebooks/advanced-database-programming-rails-postgres) - Learn about subqueries, materialized views, and custom data types in Postgres and Rails.
 - [Hotwired ATS](https://book.hotwiringrails.com/chapters) - Hotwired ATS is a step-by-step guide to building modern Ruby on Rails applications using the Hotwire stack, CableReady, and StimulusReflex.
 - [Launchschool - Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Learn the basic foundational building blocks of object oriented programming, starting from the very beginning.
