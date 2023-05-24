@@ -12,7 +12,7 @@
     - [Screencast :video\_camera:](#screencast-video_camera)
     - [Podcast :headphones:](#podcast-headphones)
     - [Others](#others)
-  - [Organizations](#organizations)
+  - [Organizations / Forum](#organizations--forum)
   - [Others](#others-1)
 
 ---
@@ -32,6 +32,7 @@ Learn ruby programming, tools and ecosystem.
 ### Blog / Articles :page_facing_up:
 - [Rubyweekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
 - [speedshop.co/blog](https://www.speedshop.co/blog/) - the number one Ruby on Rails performance blog on the 'net.
+- [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language.
 
 ### Books :books:
 - [Advanced Database Programming with Rails and Postgres](https://pganalyze.com/ebooks/advanced-database-programming-rails-postgres) - Learn about subqueries, materialized views, and custom data types in Postgres and Rails.
@@ -58,9 +59,11 @@ Learn ruby programming, tools and ecosystem.
 
 ---
 
-## Organizations
+## Organizations / Forum
 - [Ruby Central](https://rubycentral.org/) - Ruby Central is a non-profit organization dedicated to Ruby support and advocacy of the worldwide Ruby community.
 - [Rails Foundation](https://rubyonrails.org/foundation) - A non-profit organization helping Rails ecosystem prosper.
+- [Forum Hotwired Dev](https://discuss.hotwired.dev/) - Hotwire Discussion is a community forum for [Hotwire](https://hotwired.dev/), an approach to building modern web applications by sending HTML over the wire. This includes discussion about the [Turbo](https://turbo.hotwired.dev/) and [Stimulus](https://stimulus.hotwired.dev/) JavaScript libraries.
+- [Forum Ruby on Rails](https://discuss.rubyonrails.org/) - For discuss about Ruby on Rails, core changes, general use and more.
 
 [back to top](#ruby-links) :arrow_up:
 
