@@ -19,8 +19,9 @@
 
 ## Conferences
 Ruby Conferences around the world.
-- [Rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
 - [Brightonruby - UK](https://brightonruby.com/) - A single-day, single track ruby conference on the south coast of the UK.
+- [Rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
+- [Ruby Conf - Thailand](https://rubyconfth.com/)
 
 [back to top](#ruby-links) :arrow_up:
 
@@ -66,6 +67,7 @@ All these books are :free:
 - [Rails Foundation](https://rubyonrails.org/foundation) - A non-profit organization helping Rails ecosystem prosper.
 - [Forum Hotwired Dev](https://discuss.hotwired.dev/) - Hotwire Discussion is a community forum for [Hotwire](https://hotwired.dev/), an approach to building modern web applications by sending HTML over the wire. This includes discussion about the [Turbo](https://turbo.hotwired.dev/) and [Stimulus](https://stimulus.hotwired.dev/) JavaScript libraries.
 - [Forum Ruby on Rails](https://discuss.rubyonrails.org/) - For discuss about Ruby on Rails, core changes, general use and more.
+- [bangkokrb.org](https://bangkokrb.org/) - the community for the Ruby programming language in Thailand
 
 [back to top](#ruby-links) :arrow_up:
 
