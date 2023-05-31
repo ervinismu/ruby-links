@@ -30,6 +30,7 @@ Ruby Conferences around the world.
 Learn ruby programming, tools and ecosystem.
 
 ### Blog / Articles :page_facing_up:
+- [Hanamimastery](https://hanamimastery.com) - Hanami & Ruby tutorials, guides and tips.
 - [Rubyweekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
 - [speedshop.co/blog](https://www.speedshop.co/blog/) - the number one Ruby on Rails performance blog on the 'net.
 - [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language.
