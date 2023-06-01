@@ -54,6 +54,7 @@ All these books are :free:
 ### Podcast :headphones:
 - [Remoteruby](https://remoteruby.com/) - Remote Ruby is a podcast by three Rubyists who enjoy talking about web development and the Ruby programming language.
 - [Rooftopruby](https://www.rooftopruby.com/) - Two Ruby programmers (Collin Donnell and Joel Drapper) discuss Ruby, web and native software development, technology, and more.
+- [therubyonrailspodcast](https://www.therubyonrailspodcast.com/) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open source software, and the programming profession. Co-hosted by Brittany Martin, Brian Mariani, Jemma Issroff and Nick Schwaderer.
 
 ### Others
 - [Firstrubyfriend](https://firstrubyfriend.org/) - Six half-hour calls between early career devs and friendly volunteer mentors from the Ruby community.
@@ -68,6 +69,7 @@ All these books are :free:
 - [Forum Hotwired Dev](https://discuss.hotwired.dev/) - Hotwire Discussion is a community forum for [Hotwire](https://hotwired.dev/), an approach to building modern web applications by sending HTML over the wire. This includes discussion about the [Turbo](https://turbo.hotwired.dev/) and [Stimulus](https://stimulus.hotwired.dev/) JavaScript libraries.
 - [Forum Ruby on Rails](https://discuss.rubyonrails.org/) - For discuss about Ruby on Rails, core changes, general use and more.
 - [bangkokrb.org](https://bangkokrb.org/) - the community for the Ruby programming language in Thailand
+- [wnb-rb](https://www.wnb-rb.dev/) - A Ruby community for women and non-binary people! We host meetups, interview prep groups, bookclubs, CFP working groups and so much more!
 
 [back to top](#ruby-links) :arrow_up:
 
