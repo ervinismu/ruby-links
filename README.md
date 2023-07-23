@@ -46,6 +46,9 @@ All these books are :free:
 - [Launchschool - Demystifying Rails](https://launchschool.com/books/demystifying_rails) - This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
 - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/) - This book instructs you in Ruby by slowly building and establishing skills through techniques such as practice and memorization, then applying them to increasingly difficult problems.
 - [Ruby® on Rails Notes for Professionals book](https://books.goalkicker.com/RubyOnRailsBook/)
+- [Working With - Ruby Threads](https://workingwithruby.com/wwrt/intro/)
+- [Working With - TCP Socket](https://workingwithruby.com/wwtcps/intro/)
+- [Working With - Unix Process](https://workingwithruby.com/wwup/intro/)
 
 ### Screencast :video_camera:
 - [Driftingruby](https://www.driftingruby.com/) - Quality Ruby Screencasts.
