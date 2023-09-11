@@ -61,6 +61,7 @@ All these books are :free:
 
 ### Others
 - [Firstrubyfriend](https://firstrubyfriend.org/) - Six half-hour calls between early career devs and friendly volunteer mentors from the Ruby community.
+- [Ruby On Remote](https://rubyonremote.com/) - Curated Remote Ruby Jobs and Ruby On Rails Jobs. All in one place!
 
 [back to top](#ruby-links) :arrow_up:
 
