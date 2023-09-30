@@ -19,6 +19,7 @@
 
 ## Conferences
 Ruby Conferences around the world.
+- [Helvetic-ruby - Switzerland](https://helvetic-ruby.ch/) - A Ruby conference in Switzerland.
 - [Brightonruby - UK](https://brightonruby.com/) - A single-day, single track ruby conference on the south coast of the UK.
 - [Rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
 - [Ruby Conf - Thailand](https://rubyconfth.com/)
