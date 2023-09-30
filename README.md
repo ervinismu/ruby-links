@@ -69,11 +69,12 @@ All these books are :free:
 ---
 
 ## Organizations / Forum
-- [Ruby Central](https://rubycentral.org/) - Ruby Central is a non-profit organization dedicated to Ruby support and advocacy of the worldwide Ruby community.
-- [Rails Foundation](https://rubyonrails.org/foundation) - A non-profit organization helping Rails ecosystem prosper.
+- [bangkokrb](https://bangkokrb.org/) - the community for the Ruby programming language in Thailand
 - [Forum Hotwired Dev](https://discuss.hotwired.dev/) - Hotwire Discussion is a community forum for [Hotwire](https://hotwired.dev/), an approach to building modern web applications by sending HTML over the wire. This includes discussion about the [Turbo](https://turbo.hotwired.dev/) and [Stimulus](https://stimulus.hotwired.dev/) JavaScript libraries.
 - [Forum Ruby on Rails](https://discuss.rubyonrails.org/) - For discuss about Ruby on Rails, core changes, general use and more.
-- [bangkokrb.org](https://bangkokrb.org/) - the community for the Ruby programming language in Thailand
+- [helsinkiruby](https://helsinkiruby.fi/) - Helsinki Ruby ry is a non-profit organisation that aims to promote Ruby and software engineering in general in Helsinki and Finland and beyond.
+- [Ruby Central](https://rubycentral.org/) - Ruby Central is a non-profit organization dedicated to Ruby support and advocacy of the worldwide Ruby community.
+- [Rails Foundation](https://rubyonrails.org/foundation) - A non-profit organization helping Rails ecosystem prosper.
 - [wnb-rb](https://www.wnb-rb.dev/) - A Ruby community for women and non-binary people! We host meetups, interview prep groups, bookclubs, CFP working groups and so much more!
 
 [back to top](#ruby-links) :arrow_up:
