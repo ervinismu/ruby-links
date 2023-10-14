@@ -77,6 +77,7 @@ All these books are :free:
 - [helsinkiruby](https://helsinkiruby.fi/) - Helsinki Ruby ry is a non-profit organisation that aims to promote Ruby and software engineering in general in Helsinki and Finland and beyond.
 - [Ruby Central](https://rubycentral.org/) - Ruby Central is a non-profit organization dedicated to Ruby support and advocacy of the worldwide Ruby community.
 - [Rails Foundation](https://rubyonrails.org/foundation) - A non-profit organization helping Rails ecosystem prosper.
+- [Ruby for Good](https://rubyforgood.org/) - Nonprofit dedicated to building open source technology solutions in service of critical missions, to make the world gooder. .
 - [wnb-rb](https://www.wnb-rb.dev/) - A Ruby community for women and non-binary people! We host meetups, interview prep groups, bookclubs, CFP working groups and so much more!
 
 [back to top](#ruby-links) :arrow_up:
