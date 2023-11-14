@@ -65,6 +65,7 @@ All these books are :free:
 - [Firstrubyfriend](https://firstrubyfriend.org/) - Six half-hour calls between early career devs and friendly volunteer mentors from the Ruby community.
 - [Ruby On Remote](https://rubyonremote.com/) - Curated Remote Ruby Jobs and Ruby On Rails Jobs. All in one place!
 - [awesome-ruby](https://github.com/markets/awesome-ruby) - A collection of awesome Ruby libraries, tools, frameworks and software.
+- [The Freebies](https://graceful.dev/courses/the-freebies/) - Free ruby course
 
 [back to top](#ruby-links) :arrow_up:
 
