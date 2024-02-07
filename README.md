@@ -24,6 +24,7 @@ Ruby Conferences around the world.
 3. [Brightonruby - UK](https://brightonruby.com/) - A single-day, single track ruby conference on the south coast of the UK.
 4. [Rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
 5. [Ruby Conf - Thailand](https://rubyconfth.com/)
+6. [Tropicalrb](https://www.tropicalrb.com/en/)
 
 [back to top](#ruby-links) :arrow_up:
 
