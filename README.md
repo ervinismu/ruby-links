@@ -73,15 +73,16 @@ All these books are :free:
 
 ---
 
-## Organizations / Forum
+## Organizations / Forum / Community
 1. [bangkokrb](https://bangkokrb.org/) - the community for the Ruby programming language in Thailand
 2. [Forum Hotwired Dev](https://discuss.hotwired.dev/) - Hotwire Discussion is a community forum for [Hotwire](https://hotwired.dev/), an approach to building modern web applications by sending HTML over the wire. This includes discussion about the [Turbo](https://turbo.hotwired.dev/) and [Stimulus](https://stimulus.hotwired.dev/) JavaScript libraries.
 3. [Forum Ruby on Rails](https://discuss.rubyonrails.org/) - For discuss about Ruby on Rails, core changes, general use and more.
 4. [helsinkiruby](https://helsinkiruby.fi/) - Helsinki Ruby ry is a non-profit organisation that aims to promote Ruby and software engineering in general in Helsinki and Finland and beyond.
 5. [Ruby Central](https://rubycentral.org/) - Ruby Central is a non-profit organization dedicated to Ruby support and advocacy of the worldwide Ruby community.
 6. [Rails Foundation](https://rubyonrails.org/foundation) - A non-profit organization helping Rails ecosystem prosper.
-7. [Ruby for Good](https://rubyforgood.org/) - Nonprofit dedicated to building open source technology solutions in service of critical missions, to make the world gooder. .
-8. [wnb-rb](https://www.wnb-rb.dev/) - A Ruby community for women and non-binary people! We host meetups, interview prep groups, bookclubs, CFP working groups and so much more!
+7. [Ruby for Good](https://rubyforgood.org/) - Nonprofit dedicated to building open source technology solutions in service of critical missions, to make the world gooder.
+8. [RubySG](https://ruby.sg/) - Ruby community in Singapore!
+9. [wnb-rb](https://www.wnb-rb.dev/) - A Ruby community for women and non-binary people! We host meetups, interview prep groups, bookclubs, CFP working groups and so much more!
 
 [back to top](#ruby-links) :arrow_up:
 
