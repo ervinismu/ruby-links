@@ -22,9 +22,10 @@ Ruby Conferences around the world.
 1. [Friendlyrb](https://friendlyrb.com/) - Your friendly european Ruby conference.
 2. [Helvetic-ruby - Switzerland](https://helvetic-ruby.ch/) - A Ruby conference in Switzerland.
 3. [Brightonruby - UK](https://brightonruby.com/) - A single-day, single track ruby conference on the south coast of the UK.
-4. [Rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
-5. [Ruby Conf - Thailand](https://rubyconfth.com/)
-6. [Tropicalrb](https://www.tropicalrb.com/en/)
+4. [RedDotRubyConf (RDRC) - Singapore](https://reddotrubyconf.com/) - the annual Ruby conference in Singapore.
+5. [Rubykaigi - Japan](https://rubykaigi.org) - RubyKaigi is an international conference on the Ruby programming language.
+6. [Ruby Conf - Thailand](https://rubyconfth.com/)
+7. [Tropicalrb](https://www.tropicalrb.com/en/)
 
 [back to top](#ruby-links) :arrow_up:
 
