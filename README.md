@@ -39,6 +39,7 @@ Learn ruby programming, tools and ecosystem.
 2. [Rubyweekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
 3. [speedshop.co/blog](https://www.speedshop.co/blog/) - the number one Ruby on Rails performance blog on the 'net.
 4. [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language.
+5. [mikeperham.com](https://www.mikeperham.com/) - Personal blog from sidekiq creator
 
 ### Books :books:
 All these books are :free:
