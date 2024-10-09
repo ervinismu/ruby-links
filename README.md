@@ -40,6 +40,7 @@ Learn ruby programming, tools and ecosystem.
 3. [speedshop.co/blog](https://www.speedshop.co/blog/) - the number one Ruby on Rails performance blog on the 'net.
 4. [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language.
 5. [mikeperham.com](https://www.mikeperham.com/) - Personal blog from sidekiq creator
+6. [shopify.engineering](https://shopify.engineering/search?q=ruby)
 
 ### Books :books:
 All these books are :free:
@@ -92,5 +93,6 @@ All these books are :free:
 ## Others
 1. [ruby.social](https://ruby.social) - A Mastodon instance for Rubyists & friends
 2. [toprubycompanies.info](https://toprubycompanies.info/) - Discover top Ruby companies worldwide and see the impact of the programming language that focuses on developer happiness.
+3. [How to Write Fast Code in Ruby on Rails](https://shopify.engineering/write-fast-code-ruby-rails#)
 
 [back to top](#ruby-links) :arrow_up:
